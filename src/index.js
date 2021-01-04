@@ -10,5 +10,4 @@ function Title(props) {
   );
 }
 
-console.log(Title());
-// render(<Title />, document.querySelector('#root'));
+render(<Title />, document.querySelector('#root'));
